@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView_Tuan2", "ListView_Tuan2\ListView_Tuan2.csproj", "{FE2A3C78-DC87-4044-8175-8AB19DF753CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2A3C78-DC87-4044-8175-8AB19DF753CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2A3C78-DC87-4044-8175-8AB19DF753CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2A3C78-DC87-4044-8175-8AB19DF753CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2A3C78-DC87-4044-8175-8AB19DF753CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38784E09-48DA-4E64-9F18-1ED860249E75}
+	EndGlobalSection
+EndGlobal
